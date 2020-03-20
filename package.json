@@ -1,0 +1,7 @@
+{
+  "name": "rag",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "akira noguchi <guppy0356.nakira@gmail.com>",
+  "license": "MIT"
+}
