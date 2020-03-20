@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "akira noguchi <guppy0356.nakira@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "reg-suit": "^0.10.0"
+  }
 }
